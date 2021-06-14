@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**petrizzo/petrizzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![](https://readme-typing-svg.herokuapp.com?font=HeptaSlab&color=49D3DF&lines=I'm+a+political+scientist+without+fear+of+technology;I'm+a+soft+documenter;I'm+feminist;I'm+mother+of+three)
 
 - 🔭 I’m currently working on Scikit-learn doc spanish translation with my team @qu4nt
 - 🌱 I’m currently learning about Care systems and gender public policy / sofware project documentation process
@@ -13,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mpetrizzo@qu4nt.com
 - 😄 Pronouns: rather than pronouns, I want to be called by my given name
 - ⚡ Fun fact: I am a political scientist, and I am not afraid of technology!
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrizzo)](https://github.com/anuraghazra/github-readme-stats)
 
