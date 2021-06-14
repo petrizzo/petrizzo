@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://readme-typing-svg.herokuapp.com?font=HeptaSlab&color=49D3DF&lines=I'm+a+political+scientist+without+fear+of+technology;I'm+a+soft+documenter;I'm+feminist;I'm+mother+of+three)
+![](https://readme-typing-svg.herokuapp.com?font=HeptaSlab&color=49D3DF&lines=I'm+a+political+scientist;I+love+tech;I'm+a+soft+documenter;I'm+feminist;I'm+mother+of+three)
 
 - 🔭 I’m currently working on Scikit-learn doc spanish translation with my team @qu4nt
 - 🌱 I’m currently learning about Care systems and gender public policy / sofware project documentation process
