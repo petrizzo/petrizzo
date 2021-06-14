@@ -17,9 +17,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrizzo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Some memes/quotes
+🙈🙊🙉🐵Some memes/quotes
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
