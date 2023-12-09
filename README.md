@@ -4,8 +4,8 @@
 
 - ⚡ I'm currently working with Vue and Django
 - ツ I had studied DevOps and FrontEnd technologies
-- 🔭 I worked on Matplotlib doc spanish translation with my team @qu4nt {last year we work on Scikit-learn spanish doc translation}
-- 🌱 I learned about Care systems and gender public policy / software project documentation process
+- 🔭 I worked on Matplotlib doc Spanish translation with my team @qu4nt (2022) {in 2021 we work on Scikit-learn Spanish doc translation}
+- 🌱 I learned about Care systems and gender public policy/software project documentation process
 - 👯 I’m looking to collaborate on open science and tourism gender public policy research 
 - 🤔 I’m looking for help with ✍(◔◡◔)
 - 💬 Ask me about ...
