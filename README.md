@@ -2,9 +2,10 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=HeptaSlab&color=49D3DF&lines=I'm+a+political+scientist;I'm+a+researcher;I+love+tech;I'm+a+soft+documenter;I'm+feminist;I'm+mother+of+three)
 
-- ⚡ I'm currently studiying DevOps and FrontEnd technologies
+- ⚡ I'm currently working with Vue and Django
+- ツ I had studied DevOps and FrontEnd technologies
 - 🔭 I worked on Matplotlib doc spanish translation with my team @qu4nt {last year we work on Scikit-learn spanish doc translation}
-- 🌱 I learned about Care systems and gender public policy / sofware project documentation process
+- 🌱 I learned about Care systems and gender public policy / software project documentation process
 - 👯 I’m looking to collaborate on open science and tourism gender public policy research 
 - 🤔 I’m looking for help with ✍(◔◡◔)
 - 💬 Ask me about ...
