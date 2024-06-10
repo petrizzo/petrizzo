@@ -8,7 +8,7 @@
 - 🌱 I learned about Care systems and gender public policy/software project documentation process
 - 👯 I’m looking to collaborate on open science and tourism gender public policy research 
 - 🤔 I’m looking for help with ✍(◔◡◔)
-- 💬 I'm a Mujeres Activistas por el Software Libre [[Web de Activistas](http://activistasxsl.org)] member, and we work to feminize technologies and eliminate Digital Gender-Based Violence ...
+- 💬 I'm a Mujeres Activistas por el Software Libre [Web de Activistas(http://activistasxsl.org)] member, and we work to feminize technologies and eliminate Digital Gender-Based Violence ...
 - 📫 How to reach me: mpetrizzo@qu4nt.com
 - 😄 Pronouns: rather than pronouns, I want to be called by my given name
 - ⚡ Fun fact: I am a political scientist, and I am not afraid of technology!
