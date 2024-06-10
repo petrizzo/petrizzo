@@ -4,11 +4,11 @@
 
 - ⚡ I'm currently working with Vue and Django
 - ツ I had studied DevOps and FrontEnd technologies
-- 🔭 I worked on Matplotlib doc Spanish translation with my team @qu4nt (2022) {in 2021 we work on Scikit-learn Spanish doc translation}
+- 🔭 I worked on Matplotlib doc Spanish translation with my team @qu4nt (2022) {in 2021, we worked on Scikit-learn English-Spanish doc translation}
 - 🌱 I learned about Care systems and gender public policy/software project documentation process
 - 👯 I’m looking to collaborate on open science and tourism gender public policy research 
 - 🤔 I’m looking for help with ✍(◔◡◔)
-- 💬 Ask me about ...
+- 💬 I'm a Mujeres Activistas por el Software Libre [![Web de Activistas](http://activistasxsl.org)] member, and we work to feminize technologies and eliminate Digital Gender-Based Violence ...
 - 📫 How to reach me: mpetrizzo@qu4nt.com
 - 😄 Pronouns: rather than pronouns, I want to be called by my given name
 - ⚡ Fun fact: I am a political scientist, and I am not afraid of technology!
